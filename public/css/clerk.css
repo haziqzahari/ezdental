@@ -1,0 +1,133 @@
+.clerk-index .profile-title{
+    font-size: 18px;
+}
+
+.clerk-index .profile-subtitle{
+    font-size: 12px;
+}
+
+.clerk-index .first-section{
+    height: 25vh;
+}
+
+.clerk-index .second-section{
+    height: 50vh;
+}
+
+.clerk-index .dashboard-img{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+}
+
+.clerk-index .new-count{
+    color: limegreen;
+    font-size: 56px;
+}
+
+.clerk-index .ongoing-count{
+    color:red;
+    font-size: 56px;
+}
+
+.clerk-index .new-border{
+    border: limegreen;
+    box-shadow: 0px 0px 2px limegreen;
+}
+
+.clerk-index .new-border:hover{
+    border: limegreen;
+    box-shadow: 0px 0px 5px limegreen;
+}
+
+.clerk-index .ongoing-border{
+    border: red;
+    box-shadow: 0px 0px 2px red;
+}
+
+.clerk-index .ongoing-border:hover{
+    border: red;
+    box-shadow: 0px 0px 5px red;
+}
+
+.clerk-index .profile-border{
+    border: lightskyblue;
+    box-shadow: 0px 0px 2px lightskyblue;
+}
+
+.clerk-index .profile-border:hover{
+    border: lightskyblue;
+    box-shadow: 0px 0px 5px lightskyblue;
+}
+
+.clerk-index .card{
+    border-radius: 0%;
+    box-shadow: 0 0 5px #CACFD2;
+}
+
+.clerk-index .table{
+    font-size: 12px;
+}
+
+.clerk-index .table-index .card-body{
+    padding: 0px;
+}
+
+.clerk-index .table-index{
+    box-shadow: 0 0px 2px #CACFD2;
+}
+
+
+.clerk-index .table-index:hover{
+    box-shadow: 0 0 5px grey;
+}
+
+.clerk-verify-show .table{
+    font-size: 12px;
+}
+
+.clerk-verify-show .card-body{
+    padding: 0%;
+}
+
+.clerk-verify-show .full-height{
+    height: 91vh;
+}
+
+.clerk-verify-show .card-footer{
+    height: 10vh;
+}
+
+.clerk-verify-show .card{
+    border-radius: 0%;
+    box-shadow: 0 0 3px  #CACFD2;
+}
+
+.clerk-verify-show .card:hover{
+    box-shadow: 0 0 5px  grey;
+}
+
+.clerk-verify-show .btn-success-outline{
+    color: limegreen;
+}
+
+.clerk-verify-show .btn-success-outline:hover{
+    box-shadow: 0 0 3px limegreen;
+    background-color: limegreen;
+    color: white;
+}
+
+.clerk-verify-show a{
+    color: #39D300;
+}
+.clerk-index .card-footer{
+    height: 10vh;
+}
+
+.clerk-index a{
+    color: #39D300;
+}
+
+.case-register .btn {
+    width: 235px;
+}

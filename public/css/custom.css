@@ -1,0 +1,199 @@
+html, body {
+    background-color:#FBFBFB !important;
+    max-width: 100%;
+    max-height: 100vh;
+    font-family: 'Nunito', sans-serif !important;
+    font-weight: 500 !important;
+    scroll-behavior: smooth;
+}
+
+p {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+}
+
+.main-content{
+    padding-top: 56px;
+    padding-left: none;
+}
+
+.table-danger{
+    background-color:#FFE2E2 !important;
+}
+
+.flex-center {
+    align-items: center;
+    justify-content: center;
+
+}
+
+.assign-case button{
+    font-size: 10px;
+}
+
+.assign-case .btn {
+    font-size: 11px;
+    color: white;
+    width: 100px;
+    margin-bottom: 3px;
+}
+
+.table-responsive{
+    width: 100%;
+    height: 66vh;
+    padding: none;
+}
+
+.case-register{
+    min-height: 95vh;
+}
+
+.case-register input, .case-register select{
+    background-color: #FCFCFC;
+}
+
+.case-register input:focus{
+    border-color: limegreen;
+    box-shadow:0 0 5px limegreen !important;
+}
+
+.case-register select:focus{
+    border-color: limegreen;
+    box-shadow:0 0 5px limegreen !important;
+}
+
+.full-height{
+    height: 95vh;
+}
+
+.content {
+    text-align: center;
+    position: relative;
+}
+
+/* index.blade styles */
+.index-height{
+    height: 90vh;
+    overflow: hidden;
+}
+
+.bg-image{
+    background: url('/images/index.jpg');
+    background-repeat: no-repeat !important;
+    background-size: 100% 100% !important;
+    background-position: center;
+}
+
+
+.btn-login {
+    width: 90px;
+    text-align: center;
+    font-size: 15px;
+    padding-left: 18px;
+    padding-right: 18px;
+    border-radius: 50px;
+    color: #45C800 !important;
+    border: 1px solid #45C800 !important;
+}
+
+.btn-login:hover {
+    color: white !important;
+    background-color: #45C800;
+}
+
+/* navbar styles */
+.navbar .navbar-brand:hover{
+    color: limegreen !important;
+}
+
+.login-section input:focus{
+    box-shadow:0 0 5px limegreen !important;
+}
+
+/* .login-section button{
+    color: white;
+    background-color: limegreen;
+}
+
+.login-section button:hover{
+    background-color: limegreen;
+    box-shadow:1px 1px 2px limegreen !important;
+    color: white;
+
+} */
+
+
+.login-section .btn{
+    width: 14vw;
+    font-size: 14px;
+    padding-top: 1.2vh;
+    padding-bottom: 1.2vh;
+    border-radius: 20px;
+}
+
+
+/* @media (max-width: 768px) {
+    .login-section .btn{
+        border: 1px solid limegreen;
+        border-radius: 20px;
+        font-size: 14px;
+        width: 100vw;
+        margin-left: 5vw;
+        margin-right: 5vw;
+        margin-top: 2vw;
+
+    }
+} */
+
+.login-section .login-height{
+    min-height: 91vh;
+    overflow: hidden;
+}
+
+.login-section .card{
+    border-radius: 0px !important;
+    box-shadow: 0 0 5px #CACFD2;
+
+}
+
+.login-section .card:hover{
+    border-radius: 0px !important;
+    box-shadow: 0 0 5px grey;
+
+}
+
+.login-section .login-header{
+    margin-top: 12vh;
+    text-align: center;
+}
+
+.login-section .login-title{
+    font-size: 56px;
+}
+
+.login-section .login-title:hover{
+    color: limegreen;
+}
+
+.login-section .login-subtitle{
+    font-size: 12px;
+}
+
+/* clerk style */
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+    background-color: #EDFFE7;
+  }
+
+.case-verification .btn {
+    font-size: 11px;
+    color: white;
+}
+
+.case-verification .table-not-verified tr{
+    background-color: #FFC5C5!important;
+}
+
+
+
+

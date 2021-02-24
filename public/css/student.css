@@ -1,0 +1,118 @@
+
+.student-index .profile-title{
+    font-size: 18px;
+}
+
+.student-index .profile-subtitle{
+    font-size: 12px;
+}
+
+.student-index .first-section{
+    height: 25vh;
+}
+
+.student-index .second-section{
+    height: 50vh;
+}
+
+.student-index .dashboard-img{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+}
+
+.student-index .new-count{
+    color: limegreen;
+    font-size: 56px;
+}
+
+.student-index .ongoing-count{
+    color:red;
+    font-size: 56px;
+}
+
+.student-index .new-border{
+    border: limegreen;
+    box-shadow: 1px 1px 5px #CACFD2;
+}
+
+.student-index .new-border:hover{
+    border: limegreen;
+    box-shadow: 0px 0px 5px limegreen;
+}
+
+.student-index .ongoing-border{
+    border: red;
+    box-shadow: 1px 1px 5px #CACFD2;
+}
+
+.student-index .ongoing-border:hover{
+    border: red;
+    box-shadow: 0px 0px 5px red;
+}
+
+.student-index .profile-border{
+    border: lightskyblue;
+    box-shadow: 1px 1px 5px #CACFD2;
+}
+
+.student-index .profile-border:hover{
+    border: lightskyblue;
+    box-shadow: 0px 0px 5px lightskyblue;
+}
+
+.student-index .table{
+    font-size: 12px;
+}
+
+.student-index .table-index{
+    box-shadow: 1px 1px 5px #CACFD2;
+}
+
+.student-index .table-index:hover{
+    box-shadow: 0 0 5px grey;
+}
+
+.student-index .card{
+    border-radius: 0%;
+}
+
+.student-index .table-index .card-body{
+    padding: 0px !important;
+}
+
+.student-viewcase .card-body{
+    padding: 0px;
+}
+
+.student-viewcase .card{
+    height: 100%;
+    border-radius: 0%;
+    box-shadow: 0 0 5px #CACFD2;
+}
+
+.student-viewcase .card:hover{
+    height: 100%;
+    border-radius: 0%;
+    box-shadow: 0 0 5px grey;
+}
+
+.student-viewcase .table{
+    font-size: 12px;
+}
+
+.student-viewcase .full-height{
+    height: 91vh;
+}
+
+.student-viewcase .card-footer{
+    height: 10vh;
+}
+
+.student-viewcase{
+    overflow: hidden;
+}
+
+.student .btn{
+    width: 235px;
+}
